@@ -5,3 +5,10 @@ A deep learning project for creating a hinglish (a blend of Hindi and English) w
 Data for Pretraining the model obtained from <https://github.com/google-research-datasets/Hinglish-TOP-Dataset>
 
 Data for Finetuning the model collected from Discord, from a unique user.
+
+---
+Examples of sentences generated:
+- toh konse war ko is ko pucho maar hoga cheeze lene
+- tha steve toofan dilaayen pandora khoj hafte bruh ghanta available gulf
+- mereko rahe ko dilaayen road is woke karna ko outdoor dilaayen
+- quiz night dijiye bhi toofan ice hoga iska traffic chota yahi
